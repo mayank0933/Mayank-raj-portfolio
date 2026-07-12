@@ -10,26 +10,26 @@ const config: Config = {
     extend: {
       colors: {
         graphite: {
-          950: '#07090C',
-          900: '#0A0E12',
-          800: '#0F1419',
-          700: '#151B22',
-          600: '#1C242C',
-        },
+           950: '#FFFFFF',
+           900: '#F8F9FA',
+           800: '#F0F1F3',
+           700: '#E8EBF0',
+           600: '#DDE3ED',
+       },
         trace: {
-          DEFAULT: '#4DD9C7',
-          bright: '#7CF0E0',
-          dim: '#2A6B63',
-        },
+         DEFAULT: '#1E88E5',
+         bright: '#2196F3',
+         dim: '#90CAF9',
+         },
         solder: {
-          DEFAULT: '#F2A65A',
-          bright: '#FFC182',
+         DEFAULT: '#F57C00',
+         bright: '#FF9800',
         },
         ink: {
-          DEFAULT: '#E8ECEF',
-          muted: '#8B98A5',
-          faint: '#5B6672',
-        },
+         DEFAULT: '#212121',
+         muted: '#616161',
+         faint: '#9E9E9E',
+     },
       },
       fontFamily: {
         display: ['var(--font-space-grotesk)', 'sans-serif'],
