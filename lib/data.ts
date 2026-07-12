@@ -10,14 +10,14 @@ export const profile = {
   tagline: 'Learning Today, Building Tomorrow.',
   bootLines: [
     'booting mayank_raj.profile...',
-    'loading modules: [ai, prompt-eng, jee-prep]',
+    'loading modules: [ai, prompt-eng, jee-preparation]',
     'status: online',
   ],
   location: 'Biharsharif, Nalanda, Bihar – 803101',
   email: 'mayankriu0.2156@gmail.com',
   phone: '9304197083',
   // Replace with your own photo at /public/profile.jpg — this is a placeholder.
-  photo: '/profile.jpg',
+  photo: '/profile2.jpg',
   resumeUrl: '#', // Add your resume PDF to /public and point this to e.g. "/Mayank_Raj_Resume.pdf"
 };
 
