@@ -7,8 +7,7 @@ html {
 }
 
 body {
-  @apply bg-graphite-900 text-ink font-body antialiased bg-circuit-glow;
-  background-repeat: no-repeat;
+  @apply bg-white text-ink font-body antialiased;
 }
 
 /* Respect reduced-motion preference */
@@ -43,10 +42,10 @@ body {
   width: 10px;
 }
 ::-webkit-scrollbar-track {
-  background: #0A0E12;
+  background: #F8F9FA;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1C242C;
+  background: #E0E0E0;
   border-radius: 8px;
   border: 2px solid #0A0E12;
 }
