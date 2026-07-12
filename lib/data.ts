@@ -17,7 +17,7 @@ export const profile = {
   email: 'mayankriu0.2156@gmail.com',
   phone: '9304197083',
   // Replace with your own photo at /public/profile.jpg — this is a placeholder.
-  photo: '/profile-placeholder.svg',
+  photo: '/profile.jpg',
   resumeUrl: '#', // Add your resume PDF to /public and point this to e.g. "/Mayank_Raj_Resume.pdf"
 };
 
